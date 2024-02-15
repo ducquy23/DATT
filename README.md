@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -composer install
 -Ckeditor 4: npm install --save ckeditor4
 -Mạng xã hội: composer require laravel/socialite
@@ -38,3 +39,7 @@ composer require phpoffice/phpword
 - Thư Viện PDF :
  + composer require barryvdh/laravel-dompdf 
 
+=======
+# DATT
+Website đặt vé xem phim
+>>>>>>> ae2f1f167ceb3950d211cee0255e5789ed16f5ca
